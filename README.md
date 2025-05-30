@@ -1,0 +1,7 @@
+- Bye, I’m @Bejmach
+- I’m not interested in politics
+- I’m currently not learning chemistry
+- I’m not looking to collaborate on twitch(yet)
+- How to reach me: dont
+- Pronouns: the f*ck is this shit
+- [Fun fact](https://www.randomfactgenerator.com/)
