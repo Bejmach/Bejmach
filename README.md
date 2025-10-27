@@ -1,4 +1,5 @@
 # I have no idea for that, so I will just throw some stuff about me in semi random order.
+> quick info, I like to leave earser eggs/references to thigs I like in my projects 
 ## Programing languages I used so far: 
 - cpp(want it to have advantages of rust)
 - rust(want it to have advantages of cpp)
